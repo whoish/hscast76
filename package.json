@@ -1,0 +1,24 @@
+{
+  "name": "hscast76",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoish/hscast76.git"
+  },
+  "author": "whoish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whoish/hscast76/issues"
+  },
+  "homepage": "https://github.com/whoish/hscast76#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "linebot": "^1.3.0"
+  }
+}
